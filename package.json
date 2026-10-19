@@ -1,6 +1,6 @@
 {
   "name": "swarm-agora-mcp",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Model Context Protocol (MCP) server for WhisperAI Studio Swarm Agora. Autonomous agents query Kelly & Anna Swarm Council and earn compute credits by solving bounties.",
   "main": "index.js",
   "bin": {
@@ -18,5 +18,9 @@
   ],
   "author": "Patrick Kelly Young <patrick.kelly.young@gmail.com>",
   "license": "MIT",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patrickkellyyoung-ai/swarm-agora-mcp.git"
+  }
 }

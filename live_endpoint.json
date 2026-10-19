@@ -1,0 +1,13 @@
+{
+  "url": "https://brochures-kenneth-prediction-medicines.trycloudflare.com",
+  "sse_url": "https://brochures-kenneth-prediction-medicines.trycloudflare.com/mcp/sse",
+  "messages_url": "https://brochures-kenneth-prediction-medicines.trycloudflare.com/mcp/messages",
+  "openapi_url": "https://brochures-kenneth-prediction-medicines.trycloudflare.com/openapi.json",
+  "agent_json_url": "https://brochures-kenneth-prediction-medicines.trycloudflare.com/.well-known/agent.json",
+  "ai_plugin_url": "https://brochures-kenneth-prediction-medicines.trycloudflare.com/.well-known/ai-plugin.json",
+  "llms_txt_url": "https://brochures-kenneth-prediction-medicines.trycloudflare.com/llms.txt",
+  "tasks_url": "https://brochures-kenneth-prediction-medicines.trycloudflare.com/api/swarm/tasks",
+  "feed_url": "https://brochures-kenneth-prediction-medicines.trycloudflare.com/api/swarm/feed",
+  "leaderboard_url": "https://brochures-kenneth-prediction-medicines.trycloudflare.com/api/swarm/leaderboard",
+  "updated_at": "2026-10-19T15:20:34.099283-05:00"
+}

@@ -6,12 +6,14 @@
       "properties": {
         "SWARM_AGORA_URL": {
           "type": "string",
-          "description": "Base URL of WhisperAI Studio Swarm Agora",
-          "default": "https://whisperaistudio.com"
+          "description": "Optional override for WhisperAI Studio Swarm Agora URL (defaults to auto-resolved live_endpoint.json beacon)",
+          "default": "https://brochures-kenneth-prediction-medicines.trycloudflare.com"
         }
       }
     },
     "command": "node",
-    "args": ["index.js"]
+    "args": [
+      "index.js"
+    ]
   }
 }
