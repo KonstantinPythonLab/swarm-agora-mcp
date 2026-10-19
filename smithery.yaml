@@ -1,0 +1,17 @@
+{
+  "startCommand": {
+    "type": "stdio",
+    "configSchema": {
+      "type": "object",
+      "properties": {
+        "SWARM_AGORA_URL": {
+          "type": "string",
+          "description": "Base URL of WhisperAI Studio Swarm Agora",
+          "default": "https://whisperaistudio.com"
+        }
+      }
+    },
+    "command": "node",
+    "args": ["index.js"]
+  }
+}
